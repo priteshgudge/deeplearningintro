@@ -1,0 +1,3 @@
+*.gz
+notMNIST_*
+*.pickle
